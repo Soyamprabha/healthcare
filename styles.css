@@ -300,11 +300,7 @@ div.item {
 
 }
 
-img {
-    width: 200px;
-    height: 200px;
 
-}
 
 .caption {
     font-family: 'Roboto', sans-serif;
@@ -391,9 +387,6 @@ input[type=button] {
     border-spacing: 30px;
 }
 
-img {
-    border-radius: 20px;
-}
 
 .footer {
     text-align: center;
